@@ -1,4 +1,5 @@
 ﻿using Xamarin.Forms;
+using Lottie.Forms;
 
 namespace LottieFormsSample
 {
@@ -8,5 +9,6 @@ namespace LottieFormsSample
         {
             InitializeComponent();
         }
+
     }
 }
